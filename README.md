@@ -38,7 +38,7 @@ Configuration of a log repository was made to forward virtual machine logs withi
 Installation of security events for further configuration and efforts in connecting my VM to the log analytics workspace. <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/AzureDataCollectionRule3.jpg" height="73%" width="73%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/AzureDataCollectionRule3.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
