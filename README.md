@@ -1,4 +1,4 @@
-<h1>Apply Filters to SQL Queries</h1>
+<h1>Home Lab - SOC in Azure</h1>
 
 <h2>Description</h2>
 I created a SOC in Azure using a virtual machine as a honeypot. The data from log in attempts was forwarded to a central repository in Sentinel for observation. 
