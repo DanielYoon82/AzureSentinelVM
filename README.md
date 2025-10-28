@@ -29,7 +29,7 @@ First, I viewed the logs in the VM ensuring the events have taken place.  <br/>
 Configuration of a log repository was made to forward virtual machine logs within. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/LogAnalyticsWorkspace2.jpg" height="30%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/LogAnalyticsWorkspace2.jpg" height="40%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
