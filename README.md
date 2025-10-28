@@ -73,7 +73,7 @@ A spreadsheet containing geolocation of IP addresses was uploaded to provide map
 A new workbook within sentinel was created using a data from a json file. Data was then copy and pasted for a new query.<br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/SQLnoIT.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/UploadGeoIPInWatchlistSentinel8.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
