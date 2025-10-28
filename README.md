@@ -17,7 +17,7 @@ I built a SOC in Azure using a virtual machine as a honeypot. The data from log 
 
 
 - <b>Viewing logs in security events</b> <br />
-First, I viewed the logs in my VM ensuring events have taken place.  <br/>
+First, I viewed the logs in the VM ensuring the events have taken place.  <br/>
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/LogRepository1.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
@@ -29,7 +29,7 @@ First, I viewed the logs in my VM ensuring events have taken place.  <br/>
 Configuration of a log repository was made to forward virtual machine logs within. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/SQLLogInAttempts.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/LogAnalyticsWorkspace2.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
