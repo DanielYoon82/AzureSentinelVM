@@ -84,7 +84,7 @@ A new workbook within sentinel was created using a data from a json file. Data w
 As a result, an attack map showing logs from around the world illustrated where events had taken place.<br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/SQLnoIT.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/WorldMapOfLogIns10.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <p align="center">
 </p>
 <br />
