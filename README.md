@@ -1,7 +1,7 @@
 <h1>Apply Filters to SQL Queries</h1>
 
 <h2>Description</h2>
-I built a SOC in Azure using a virtual machine as a honeypot. The data from log in attempts was forwarded to a central repository in Sentinel for observation. 
+I created a SOC in Azure using a virtual machine as a honeypot. The data from log in attempts was forwarded to a central repository in Sentinel for observation. 
 <br />
 
 
@@ -56,8 +56,9 @@ A query using KQL searching for "SecurityEvent" was made to observe general logs
 To narrow the search results, I applied "where" in "EventID" for event "4625." Specifically, "TimeGenerated, Account, Computer, EventID, Activity, IpAddress" further narrowed down the search to filter results of interest. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/SQLFS.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/QueryingLogRepositoryWithKQL5.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/ReviewingLogRepositoryWithFilters6.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
