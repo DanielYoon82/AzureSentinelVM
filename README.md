@@ -75,6 +75,8 @@ A new workbook within sentinel was created using a data from a json file. Data w
 <p align="center">
 <img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/UploadGeoIPInWatchlistSentinel8.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 </p>
+<p align="center">
+<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/CreatedWorkbookInSentinelForMAp9.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
@@ -85,7 +87,6 @@ As a result, an attack map showing logs from around the world illustrated where 
 <img src="https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/SQLnoIT.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <p align="center">
 </p>
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/CreatedWorkbookInSentinelForMAp9.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
