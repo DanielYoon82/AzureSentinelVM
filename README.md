@@ -20,7 +20,7 @@ I built a SOC in Azure using a virtual machine as a honeypot. The data from log 
 First, I viewed the logs in my VM ensuring events have taken place.  <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/SQLfla.jpg" height="77%" width="77%" alt="Disk Sanitization Steps](https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/LogRepository1.jpg)"/>
+<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/LogRepository1.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 </p>
 <br />                                                                                                                                                    
 <br />
