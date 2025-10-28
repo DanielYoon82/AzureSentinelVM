@@ -1,7 +1,7 @@
 <h1>Apply Filters to SQL Queries</h1>
 
 <h2>Description</h2>
-I built a basic SOC in Azure using a virtual machine as a honeypot. The logs of log in attempts was forwarded to a central repository for observation. 
+I built a SOC in Azure using a virtual machine as a honeypot. The data from log in attempts was forwarded to a central repository in Sentinel for observation. 
 <br />
 
 
@@ -20,7 +20,7 @@ I built a basic SOC in Azure using a virtual machine as a honeypot. The logs of 
 First, I viewed the logs in my VM ensuring events have taken place.  <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/SQLfla.jpg" height="77%" width="77%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/SQLfla.jpg" height="77%" width="77%" alt="Disk Sanitization Steps](https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/LogRepository1.jpg)"/>
 </p>
 <br />                                                                                                                                                    
 <br />
