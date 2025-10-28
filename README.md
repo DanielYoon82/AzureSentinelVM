@@ -56,7 +56,6 @@ A query using KQL searching for "SecurityEvent" was made to observe general logs
 To narrow the search results, I applied "where" in "EventID" for event "4625." Specifically, "TimeGenerated, Account, Computer, EventID, Activity, IpAddress" further narrowed down the search to filter results of interest. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/QueryingLogRepositoryWithKQL5.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 </p>
 <img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/ReviewingLogRepositoryWithFilters6.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <br />
