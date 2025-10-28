@@ -47,7 +47,7 @@ Installation of security events for further configuration and efforts in connect
 A query using KQL searching for "SecurityEvent" was made to observe general logs.  <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/SQLeM.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/ConnectVMToLogAnalyticsWorkspace4.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
