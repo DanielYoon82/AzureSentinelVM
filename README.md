@@ -64,7 +64,7 @@ To narrow the search results, I applied "where" in "EventID" for event "4625." S
 A spreadsheet containing geolocation of IP addresses was uploaded to provide mapping ranges.<br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/SQLnoIT.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/GeoIPUploadedSheet7.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
