@@ -16,7 +16,7 @@ I created a SOC in Azure using a virtual machine as a honeypot. The data from lo
 First, I viewed the logs in the VM ensuring the events have taken place.  <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/LogRepository1.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 </p>
 <br />                                                                                                                                                    
 <br />
