@@ -5,13 +5,9 @@ I created a SOC in Azure using a virtual machine as a honeypot. The data from lo
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>KQL and Sentinel</b> 
-
 <h2>Environments Used </h2>
 
-- <b>Windows 10 and Sentinel</b> (21H2)
+- <b>Windows Server 2019</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
